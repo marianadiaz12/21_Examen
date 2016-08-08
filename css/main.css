@@ -2,9 +2,24 @@
 #imglaptops{
   background-image: url("../img/laptop-features.png");
   height: 500px;
-  
 }
 /*PORTAFOLIO*/
 ul li{
   display: inline-block;
+}
+.paddingmenu{
+  background-color: green;
+}
+.bordeimagen{
+  background-color: white;
+  box-shadow: 4px 2px 14px -4px rgba(92,89,92,1);
+}
+.fotoschicas{
+  margin-top: 10px;
+}
+h6{
+  font-size: 25px;
+}
+p{
+  color: gray;
 }
