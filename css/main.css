@@ -1,0 +1,14 @@
+.fon{
+	background-image: url("../img/background/hero.jpg");
+	padding: 30px;
+	opacity: 1.5;
+}
+
+.menu{
+	display: inline-block;
+}
+
+.menref{
+	text-decoration: none;
+	color: white;
+}

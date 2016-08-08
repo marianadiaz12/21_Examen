@@ -14,6 +14,11 @@
   margin-left: auto;
 }
 
+/*Se agrego un container fluid para el exa*/
+.container-fluid{
+	width: 100%;
+}
+
 @media (max-width: 767px) {
 	.container {
 	    margin:0 !important;
