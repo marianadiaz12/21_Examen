@@ -1,0 +1,10 @@
+
+#imglaptops{
+  background-image: url("../img/laptop-features.png");
+  height: 500px;
+  
+}
+/*PORTAFOLIO*/
+ul li{
+  display: inline-block;
+}
