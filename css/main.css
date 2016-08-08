@@ -1,14 +1,35 @@
 .fon{
 	background-image: url("../img/background/hero.jpg");
 	padding: 30px;
-	opacity: 1.5;
 }
 
+
+	
 .menu{
 	display: inline-block;
+	padding: 5px;
 }
 
 .menref{
 	text-decoration: none;
 	color: white;
+}
+.bot{
+	font-size: 20px;
+	margin-bottom: 300px;
+	height: 50px;
+	width: 200px;
+	border:none;
+}
+.bot1{
+	background-color: #2E2E2E;
+}
+.esp{
+	padding: 0% 10%;
+	margin-bottom: 5%;
+	margin-top: 
+}
+
+h1{
+	margin-top: 10%;
 }
