@@ -93,7 +93,6 @@ hr{
 .iconoescuela{
   float: left;
   height: 40px;
-  margin-right: 15px;
 }
 /*PORTAFOLIO*/
 ul li{
@@ -141,14 +140,14 @@ input{
   background-color: #24aec7;
 }
 .paddingform{
-  width: 484px;
+  width: 85%;
   height: 44px;
   background-color: gray;
   opacity: .3;
   border: none;
 }
 .margensendmessage{
-  margin-top: 35px;
+  margin-top: 3%;
 }
 
 /*SECCION FOLLOW US! REDES SOCIALES*/
@@ -161,6 +160,6 @@ input{
   height: 100px;
 }
 .textfooter{
-  margin-top: 40px;
+  margin-top: 3%;
 }
 
