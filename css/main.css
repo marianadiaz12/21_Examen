@@ -3,23 +3,59 @@
   background-image: url("../img/laptop-features.png");
   height: 500px;
 }
+/*SECCION ESCOLAR*/
+.iconoescuela{
+  float: left;
+  height: 40px;
+  margin-right: 15px;
+}
 /*PORTAFOLIO*/
 ul li{
   display: inline-block;
 }
 .paddingmenu{
-  background-color: green;
+  background-color: white;
+  padding: 10px 20px;
+  color: black;
 }
 .bordeimagen{
   background-color: white;
   box-shadow: 4px 2px 14px -4px rgba(92,89,92,1);
 }
-.fotoschicas{
-  margin-top: 10px;
+button{
+  border: none;
+  color: #aba8b0;
+  
 }
 h6{
-  font-size: 25px;
+  font-size: 20px;
 }
 p{
   color: gray;
+}
+/*CUSTOMERS*/
+.customerchica{
+  border-radius: 100%;
+  width: 10%;
+}
+/*CONTACT US*/
+#imgescritor{
+  background-image: url("../img/background/imageedit_1_5939329460.jpg");
+  height: 550px;
+  background-size: cover;
+}
+input{
+  display: block;
+}
+/*SECCION FOLLOW US! REDES SOCIALES*/
+.iconosredessoc{
+  height: 50px;
+}
+/*FOOTER*/
+#fondofooter{
+  background-color: #2e2b2f;
+  height: 100px;
+}
+.textfooter{
+  margin-top: 40px;
 }

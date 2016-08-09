@@ -9,6 +9,16 @@ strong {
 	font-weight: 400;
 }
 
+/*Margins*/
+.mt-1{
+	margin-top: 10px;
+}
+.mt-3{
+	margin-top: 30px;
+}
+.mb-2{
+	margin-bottom: 20px;
+}
 /* Paddings */
 .pd-0{
 	padding: 0;
