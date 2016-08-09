@@ -1,10 +1,7 @@
 .fon{
 	background-image: url("../img/background/hero.jpg");
-	padding: 30px;
-}
-
-
-	
+	padding: 30px; 
+}	
 .menu{
 	display: inline-block;
 	padding: 5px;
@@ -85,3 +82,85 @@ hr{
 .ma{
 	margin-top: 50px;
 }
+
+
+
+#imglaptops{
+  background-image: url("../img/laptop-features.png");
+  height: 500px;
+}
+/*SECCION ESCOLAR*/
+.iconoescuela{
+  float: left;
+  height: 40px;
+  margin-right: 15px;
+}
+/*PORTAFOLIO*/
+ul li{
+  display: inline-block;
+}
+.paddingmenu{
+  background-color: white;
+  padding: 10px 20px;
+  color: black;
+}
+.bordeimagen{
+  background-color: white;
+  box-shadow: 4px 2px 14px -4px rgba(92,89,92,1);
+}
+button{
+  border: none;
+  width: 110px;
+  height: 50px;
+}
+.botonload{
+  background-color: #3c3c3e;
+}
+
+h6{
+  font-size: 20px;
+}
+p{
+  color: gray;
+}
+/*CUSTOMERS*/
+.customerchica{
+  border-radius: 100%;
+  width: 10%;
+}
+/*CONTACT US*/
+#imgescritor{
+  background-image: url("../img/background/imageedit_1_5939329460.jpg");
+  height: 550px;
+  background-size: cover;
+}
+input{
+  display: block;
+}
+.botonsubmits{
+  background-color: #24aec7;
+}
+.paddingform{
+  width: 484px;
+  height: 44px;
+  background-color: gray;
+  opacity: .3;
+  border: none;
+}
+.margensendmessage{
+  margin-top: 35px;
+}
+
+/*SECCION FOLLOW US! REDES SOCIALES*/
+.iconosredessoc{
+  height: 50px;
+}
+/*FOOTER*/
+#fondofooter{
+  background-color: #2e2b2f;
+  height: 100px;
+}
+.textfooter{
+  margin-top: 40px;
+}
+
